@@ -39,11 +39,7 @@ A brief description of what this project does and who it's for
 **Server:** Flask, Python
 
 
-## Used By
 
-This project is used by the following:
-
-- Students of IIT Guwahati
 
 
 ## FAQ
@@ -54,7 +50,5 @@ Every possible source and destination is mapped with a number ranging from (1 to
 
 
 
-## Authors
 
-- [@siddharthKashyap](https://github.com/dis-28)
 
